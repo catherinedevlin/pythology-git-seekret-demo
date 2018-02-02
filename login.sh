@@ -1,3 +1,3 @@
-psql postgresql://hamlet:2Bornot@/shakes
+psql postgresql://hamlet:2Bornot@localhost/shakes
 
  
